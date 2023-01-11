@@ -1,2 +1,2 @@
 # my-proyect
-Este es un proyecto de prueba con giy
+Este es un proyecto de prueba con git
